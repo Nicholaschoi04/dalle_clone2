@@ -1,5 +1,5 @@
 # dalle_clone2
-https://www.loom.com/share/2e6d319a08114c7d96cffc73f060b64f?sid=fd8f78bc-e652-44be-b62c-f5dbafcaebc8
+https://www.loom.com/share/f5aa4f56dab747089842f9e41bdc959e?sid=c5a8a8f0-f891-43c0-ad48-432a81083623
 
 # Overview
 This project is an AI full-stack application that utilizes OpenAI's DALL-E model to generate highly realistic images. The application is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) and incorporates Tailwind CSS for responsive user interface design. Additionally, Cloudinary is integrated into the project to enhance image retrieval time and handle increased user traffic.
