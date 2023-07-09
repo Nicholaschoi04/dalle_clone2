@@ -1,7 +1,7 @@
 # Demo
 https://www.loom.com/share/f5aa4f56dab747089842f9e41bdc959e?sid=c5a8a8f0-f891-43c0-ad48-432a81083623
 
-# Project
+# Overview
 This project is an AI full-stack application that utilizes OpenAI's DALL-E model to generate highly realistic images. The application is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) and incorporates Tailwind CSS for responsive user interface design. Additionally, Cloudinary is integrated into the project to enhance image retrieval time and handle increased user traffic.
 
 # Features 
